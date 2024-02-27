@@ -1,16 +1,8 @@
-# flutter_application_2
+Sneakers shop application (Nike Shoes App) using Flutter + Animations
 
-A new Flutter project.
+Descriptions
+🤖👋 Hey there!
 
-## Getting Started
+As part of my Flutter 100 days challenge, I developed an app for some practice. It was a great opportunity for me to explore animation techniques, which I used for the first time in this project. 🎬 While I was browsing through the Dribble website, I stumbled upon an interesting UI design that caught my attention. Although it was simple, I thought it had potential, so I decided to tweak and enhance it to my liking. 💡
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overall, I'm pretty excited about how this project turned out and I hope you will enjoy it too! ❤️
